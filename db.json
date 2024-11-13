@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "title": "A Good Book",
+      "id": 1
+    },
+    {
+      "title": "The Silent Table",
+      "id": 2
+    }
+  ]
+}
